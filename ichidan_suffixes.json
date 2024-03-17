@@ -1,0 +1,202 @@
+{
+    "present": {
+        "plain": {
+            "positive": {
+                "る": "る"
+            },
+            "negative": {
+                "る": "ない"
+            }
+        },
+        "polite": {
+            "positive": {
+                "る": "ます"
+            },
+            "negative": {
+                "る": "ません"
+            }
+        }
+    },
+    "past": {
+        "plain": {
+            "positive": {
+                "る": "た"
+            },
+            "negative": {
+                "る": "なかった"
+            }
+        },
+        "polite": {
+            "positive": {
+                "る": "ました"
+            },
+            "negative": {
+                "る": "ませんでした"
+            }
+        }
+    },
+    "present_progressive": {
+        "plain": {
+            "positive": {
+                "る": "ている"
+            },
+            "negative": {
+                "る": "ていない"
+            }
+        },
+        "polite": {
+            "positive": {
+                "る": "ています"
+            },
+            "negative": {
+                "る": "ていません"
+            }
+        }
+    },
+    "past_progressive": {
+       "plain": {
+            "positive": {
+                "る": "ていた"
+            },
+            "negative": {
+                "る": "ていなかった"
+            }
+        },
+        "polite": {
+            "positive": {
+                "る": "ていました"
+            },
+            "negative": {
+                "る": "ていませんでした"
+            }
+        }
+    },
+    "volitional": {
+       "plain": {
+            "positive": {
+                "る": "よう"
+            },
+            "negative": {
+                "る": "ないだろう"
+            }
+        },
+        "polite": {
+            "positive": {
+                "る": "ましょう"
+            },
+            "negative": {
+                "る": "ないでしょう"
+            }
+        }
+    },
+    "conditional_eba": {
+       "plain": {
+            "positive": {
+                "る": "れば"
+            },
+            "negative": {
+                "る": "なければ"
+            }
+        },
+        "polite": {
+            "positive": "n/a",
+            "negative": "n/a"
+        }
+    },
+    "potential": {
+        "plain": {
+            "positive": {
+                "る": "れる"
+            },
+            "negative": {
+                "る": "れない"
+            }
+        },
+        "polite": {
+            "positive": {
+                "る": "れます"
+            },
+            "negative": {
+                "る": "れません"
+            }
+        }
+    },
+    "causative": {
+        "plain": {
+            "positive": {
+                "る": "させる"
+            },
+            "negative": {
+                "る": "させない"
+            }
+        },
+        "polite": {
+            "positive": {
+                "る": "させます"
+            },
+            "negative": {
+                "る": "させません"
+            }
+        }
+    },
+    "passive": {
+         "plain": {
+            "positive": {
+                "る": "られる"
+            },
+            "negative": {
+                "る": "られない"
+            }
+        },
+        "polite": {
+            "positive": {
+                "る": "られます"
+            },
+            "negative": {
+                "る": "られません"
+            }
+        }
+    },
+    "causative_passive": {
+         "plain": {
+            "positive": {
+                "る": "させられる"
+            },
+            "negative": {
+                "る": "させられない"
+            }
+        },
+        "polite": {
+            "positive": {
+                "る": "させられます"
+            },
+            "negative": {
+                "る": "させられません"
+            }
+        }
+    },
+    "imperative": {
+         "plain": {
+            "positive": {
+                "る": "ろ"
+            },
+            "negative": {
+                "る": "るな"
+            }
+        },
+        "polite": {
+            "positive": {
+                "る": "てください"
+            },
+            "negative": {
+                "る": "ないでください"
+            }
+        }
+    },
+    "te_form": {
+         "る": "て"
+    },
+    "infinitive": {
+        "る": "n/a"
+    }
+}
