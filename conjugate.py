@@ -1,9 +1,10 @@
 from sudachipy import Dictionary
 import determine
 
+tokenizer = Dictionary().create()
+
 
 def part_of_speech(verb):
-    tokenizer = Dictionary().create()
     morphemes = tokenizer.tokenize(verb)
     token = morphemes[-1]
     part_of_speech = str(token.part_of_speech()[4])
@@ -17,7 +18,7 @@ def part_of_speech(verb):
         return 'exception_suffixes.json'
     elif part_of_speech in godan_groups:
         return 'godan_suffixes.json'
-    elif part_of_speech == '下一段-バ行' or part_of_speech == '上一段-カ行' or '上一段-マ行' or '下一段-ラ行':
+    elif part_of_speech == '下一段-バ行' or '上一段-カ行' or '上一段-マ行' or '下一段-ラ行':
         return 'ichidan_suffixes.json'
 
 
